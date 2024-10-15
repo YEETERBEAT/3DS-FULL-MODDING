@@ -39,5 +39,5 @@ New 3DS
 New 3DS XL
 New 2DS XL
 🤝 Contributing
-We welcome contributions from the community! If you have suggestions, mods, or themes you'd like to add, feel free to open an issue or submit a pull request. Together, we can make the 3DS REVIVE Project even better.
+We welcome contributions from the community! If you have suggestions, mods, or themes you'd like to add, feel free to open an issue or submit a pull request. Together, we can make the 3DS REVIVE Project even better. Try our website (WIP) https://3DSreviveproject.org
 
