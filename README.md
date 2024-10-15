@@ -1,0 +1,1 @@
+This is a full 3DS modding guide where you can get all the files you need in one place. You might have to get your own .cia files, but you can do that throught he Universal Updater, and Hshop. Happy Modding!
